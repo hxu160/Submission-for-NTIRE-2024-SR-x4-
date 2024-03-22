@@ -9,8 +9,8 @@
     ```
     - Be sure the change the directories `--data_dir` and `--save_dir`.
     - We provide one model (team16): team16_augmented_swinfir. The code and pretrained model are provided.
-    - The pretrained model can also be downloaded with [link](https://drive.google.com/file/d/1ldLPCJHnzdMypMCStNQZHq_MR9uAMRBb/view?usp=sharing).
-    - We include some additional code (row 168-173 and row 270-274) in the test_demo.py to pad the input. 
+    - The pretrained model can be downloaded with [link](https://drive.google.com/file/d/1ldLPCJHnzdMypMCStNQZHq_MR9uAMRBb/view?usp=sharing) and please place it in the model_zoo folder.
+    - We include some additional code (rows 168-173 and rows 270-274) in the test_demo.py to pad the input. 
 
 ## License and Acknowledgement
 This repo is heavily built on the [SwinFIR code](https://github.com/Zdafeng/SwinFIR) and the [official template](https://github.com/zhengchen1999/NTIRE2024_ImageSR_x4). 
